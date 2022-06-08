@@ -1,0 +1,36 @@
+.todo-main-div{
+    background-color: rgb(204, 200, 200);
+    min-height: 100vh;
+    padding: 60px 0px 20px;
+}
+.todo-main-div>div{
+    width: 350px;
+    max-width: 90%;
+    border: 1px solid rgb(218, 213, 213);
+    border-radius: 0px;
+    padding: 10px 30px 20px;
+    box-shadow: 2px 0px 10px 2px rgb(150, 147, 147);
+    background-color: white;
+    margin: auto;
+}
+.todo-main-div button{
+    margin: 10px auto 10px !important;
+}
+.todo-main-div input{
+    font-size: 13px !important;
+    font-weight: 400 !important;
+}
+.list-div{
+    padding: 0px 15px 0px;
+    text-align: left;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    margin-bottom: 5px;
+}
+.list-div p{
+    /* padding: 0; */
+    margin: 5px;
+}

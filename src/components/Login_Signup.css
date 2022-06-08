@@ -1,0 +1,28 @@
+.login-div{
+    width: 100vw;
+    min-height: 90vh;
+    background-color: rgba(196, 201, 201, 0.7);
+    padding: 70px 0;
+}
+.loginform{
+    width: 300px;
+    max-width: 70%;
+    border: 1px solid rgb(218, 213, 213);
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 0px 0px 6px 1px rgb(150, 147, 147);
+    background-color: white;
+}
+.loginform h5{
+    margin: 20px auto 10px;
+    
+}
+.loginform button{
+    margin: 20px auto;
+}
+.loginform input{
+    border-color: rgb(141, 140, 140) !important ;
+}
+::placeholder{
+    color: gray;
+}
