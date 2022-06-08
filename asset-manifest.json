@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/authtodo/static/css/main.0d16fa79.css",
+    "main.js": "/authtodo/static/js/main.28e37900.js",
+    "static/js/787.f1bbb495.chunk.js": "/authtodo/static/js/787.f1bbb495.chunk.js",
+    "index.html": "/authtodo/index.html",
+    "main.0d16fa79.css.map": "/authtodo/static/css/main.0d16fa79.css.map",
+    "main.28e37900.js.map": "/authtodo/static/js/main.28e37900.js.map",
+    "787.f1bbb495.chunk.js.map": "/authtodo/static/js/787.f1bbb495.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d16fa79.css",
+    "static/js/main.28e37900.js"
+  ]
+}
